@@ -213,7 +213,7 @@ import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 // Import images (Assuming they are in src/assets)
-import keeperImg from './assets/keeper.jpg'
+import keeperImg from './assets/Keeper.jpg'
 import classifiedsImg from './assets/filipino-classifieds.png'
 import hrPortalImg from './assets/hrportal.png'
 
